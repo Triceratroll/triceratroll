@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triceratroll&label=Profile%20views&color=0e75b6&style=flat" alt="triceratroll" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=triceratroll" alt="triceratroll" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/adrianmf06" target="blank"><img src="https://img.shields.io/twitter/follow/adrianmf06?logo=twitter&style=for-the-badge" alt="adrianmf06" /></a> </p>
 
 - 🔭 I’m currently working on [Journalio](https://journaliowallet.com/)
@@ -25,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triceratroll&show_icons=true&locale=en" alt="triceratroll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triceratroll&" alt="triceratroll" /></p>
+
