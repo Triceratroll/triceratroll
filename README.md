@@ -7,11 +7,11 @@
 
 <h2 align="left">Some of the projects I have done</h2><p align="left">
 
-- 🔭 [Journalio] pay per article access content solution(https://journaliowallet.com/) demo integration accesible [here](https://elinfluyente.tk/)
+- 🔭 [Journalio](https://journaliowallet.com/) pay per article access content solution demo integration accesible [here](https://elinfluyente.tk/)
  
-- 🚗 [Car Predictor] second hand car price predictor (https://asder.pythonanywhere.com/)
+- 🚗 [Car Predictor](https://asder.pythonanywhere.com/) second hand car price predictor 
 
-- 🌱 [LinkTree] style personal page using Three.js (https://triceratroll.github.io/webgl/linktree.html)
+- 🌱 [LinkTree](https://triceratroll.github.io/webgl/linktree.html) style personal page using Three.js 
 
 <h2 align="left">I have used</h2><p align="left">
 
