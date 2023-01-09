@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/adrianmf06" target="blank"><img src="https://img.shields.io/twitter/follow/adrianmf06?logo=twitter&style=for-the-badge" alt="adrianmf06" /></a> </p>
 
-<h2 align="left">Some of the projects I have done</h2><p align="left">
+<h2 align="left">Some of the projects I have done and are accesible</h2><p align="left">
 
-- 🔭 [Journalio](https://journaliowallet.com/) pay per article access content solution demo integration accesible [here](https://elinfluyente.tk/)
+- 🔭 [Journalio](https://journaliowallet.com/) pay per article access content solution, demo integration accesible [here](https://elinfluyente.tk/)
  
 - 🚗 [Car Predictor](https://asder.pythonanywhere.com/) second hand car price predictor 
 
